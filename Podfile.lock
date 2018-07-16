@@ -1,0 +1,24 @@
+PODS:
+  - Socket.IO-Client-Swift (11.0.2):
+    - StarscreamSocketIO (~> 8.0.2)
+  - StarscreamSocketIO (8.0.7)
+  - SwiftSpinner (1.5.0)
+
+DEPENDENCIES:
+  - Socket.IO-Client-Swift (~> 11.0.0)
+  - SwiftSpinner
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Socket.IO-Client-Swift
+    - StarscreamSocketIO
+    - SwiftSpinner
+
+SPEC CHECKSUMS:
+  Socket.IO-Client-Swift: 17d4daf85d74125c33481d9bc40cbe678f0d631a
+  StarscreamSocketIO: 00b54e4208481ca5cef089545353aaf126bae16d
+  SwiftSpinner: 4c058c7a1d6b444dd2e1d70988ead40783097133
+
+PODFILE CHECKSUM: e077388594712e20cff4d39fdc5fbadbc542539a
+
+COCOAPODS: 1.5.3
